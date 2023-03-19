@@ -1,0 +1,17 @@
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\bin\Debug\net7.0-windows\AirEvents.exe
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\bin\Debug\net7.0-windows\AirEvents.deps.json
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\bin\Debug\net7.0-windows\AirEvents.runtimeconfig.json
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\bin\Debug\net7.0-windows\AirEvents.dll
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\bin\Debug\net7.0-windows\AirEvents.pdb
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.csproj.AssemblyReference.cache
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.Form1.resources
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.csproj.GenerateResource.cache
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.AssemblyInfoInputs.cache
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.AssemblyInfo.cs
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.csproj.CoreCompileInputs.cache
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.dll
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\refint\AirEvents.dll
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.pdb
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\AirEvents.genruntimeconfig.cache
+C:\Users\neobu\Desktop\Slobodan\ACARS\AirEvents\obj\Debug\net7.0-windows\ref\AirEvents.dll
