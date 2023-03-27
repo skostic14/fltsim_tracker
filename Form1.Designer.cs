@@ -31,7 +31,6 @@
             components = new System.ComponentModel.Container();
             simStatus = new Label();
             flightStatus = new Label();
-            connectSimBtn = new Button();
             startFlightBtn = new Button();
             timer1 = new System.Windows.Forms.Timer(components);
             SuspendLayout();
@@ -54,16 +53,6 @@
             flightStatus.TabIndex = 1;
             flightStatus.Text = "label2";
             // 
-            // connectSimBtn
-            // 
-            connectSimBtn.Location = new Point(83, 28);
-            connectSimBtn.Name = "connectSimBtn";
-            connectSimBtn.Size = new Size(107, 23);
-            connectSimBtn.TabIndex = 2;
-            connectSimBtn.Text = "Connect Sim";
-            connectSimBtn.UseVisualStyleBackColor = true;
-            connectSimBtn.Click += simConnectBtn_Click;
-            // 
             // startFlightBtn
             // 
             startFlightBtn.Location = new Point(83, 64);
@@ -85,7 +74,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(startFlightBtn);
-            Controls.Add(connectSimBtn);
             Controls.Add(flightStatus);
             Controls.Add(simStatus);
             Name = "Form1";
@@ -98,7 +86,6 @@
 
         private Label simStatus;
         private Label flightStatus;
-        private Button connectSimBtn;
         private Button startFlightBtn;
         private System.Windows.Forms.Timer timer1;
 

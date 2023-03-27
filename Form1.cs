@@ -9,18 +9,6 @@ namespace AirEvents
             InitializeComponent();
         }
 
-        private void simConnectBtn_Click(object sender, EventArgs e)
-        {
-            if (mFlightStatusHandler.simConnection == APL_Enums.SimConnection.SIM_DISCONNECTED)
-            {
-                mFlightStatusHandler.connectSim();
-            }
-            else
-            {
-                mFlightStatusHandler.disconnectSim();
-            }
-        }
-
         private void startFlightBtn_Click(object sender, EventArgs e)
         {
             if (mFlightStatusHandler.flightStatus == APL_Enums.FlightStatus.FLIGHT_STARTED)
@@ -39,12 +27,10 @@ namespace AirEvents
             {
                 case APL_Enums.SimConnection.SIM_DISCONNECTED:
                     simStatus.Text = "Sim disconnected";
-                    connectSimBtn.Text = "Connect Sim";
                     startFlightBtn.Text = "Start Flight";
                     break;
                 case APL_Enums.SimConnection.SIM_CONNECTED:
                     simStatus.Text = "Sim Connected";
-                    connectSimBtn.Text = "Disconnect Sim";
                     break;
                 default:
                     break;
